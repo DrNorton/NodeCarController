@@ -1,0 +1,10 @@
+{
+  "name": "NodeCarController",
+  "version": "0.0.0",
+  "description": "NodeCarController",
+  "main": "app.js",
+  "author": {
+    "name": "dimai",
+    "email": ""
+  }
+}
